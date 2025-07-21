@@ -11,8 +11,8 @@
 - 🌱 Currently focusing on **Java Full Stack Development**
 - 👀 Learning daily about **Spring Boot, React, SQL, REST API**
 - 💬 Ask me about **Java, Web Development, and Projects**
-- 📫 Reach me at **vinita@gmail.com** *(replace with your mail)*
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/vinita671)
+- 📫 Reach me at **11vinita1998@gmail.com** 
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinita-kumari-6442871a3/)
 
 ---
 
